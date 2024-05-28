@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node turbo.js"
+    "start": "node index.js"
   },
   "author": "TurboMods",
   "license": "GPL-3.0 license",
